@@ -6,8 +6,10 @@ from src.model import RiskModel
 app = Flask(__name__)
 model = RiskModel()
 CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
-@app.route("/", methods=["POST", "OPTIONS"])
+
+@app.route("/", methods=["POST"])
 def prediction():
     try:
         return {"prediction": model.predict(request.json)}
