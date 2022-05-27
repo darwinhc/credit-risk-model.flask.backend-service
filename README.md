@@ -6,7 +6,7 @@ Se desarrolla un modelo de un scoreboard para el riesgo crediticio que trae cons
 
 Use la API realizando peticiones POST a la siguiente ruta
 ~~~
-<ruta>
+https://modelo-riesgo-crediticio.herokuapp.com/
 ~~~
 
 Enviando los datos requeridos de la siguiente manera
