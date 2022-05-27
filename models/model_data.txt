@@ -1,0 +1,52 @@
+grade,grade_B,146.0
+grade,grade_C,138.0
+grade,grade_A,175.0
+grade,grade_D,138.0
+grade,grade_E,142.0
+grade,grade_F,149.0
+grade,grade_G,157.0
+sub_grade,sub_grade_B2,144.0
+sub_grade,sub_grade_C1,139.0
+sub_grade,sub_grade_A2,157.0
+sub_grade,sub_grade_B5,139.0
+sub_grade,sub_grade_A5,131.0
+sub_grade,sub_grade_B3,141.0
+sub_grade,sub_grade_B4,139.0
+sub_grade,sub_grade_C5,139.0
+sub_grade,sub_grade_B1,140.0
+sub_grade,sub_grade_A3,151.0
+sub_grade,sub_grade_D5,139.0
+sub_grade,sub_grade_C3,139.0
+sub_grade,sub_grade_E4,141.0
+sub_grade,sub_grade_C2,139.0
+sub_grade,sub_grade_D4,139.0
+sub_grade,sub_grade_E1,137.0
+sub_grade,sub_grade_C4,139.0
+sub_grade,sub_grade_D3,138.0
+sub_grade,sub_grade_E2,139.0
+sub_grade,sub_grade_A1,185.0
+sub_grade,sub_grade_A4,133.0
+sub_grade,sub_grade_D2,139.0
+sub_grade,sub_grade_E3,139.0
+sub_grade,sub_grade_E5,143.0
+sub_grade,sub_grade_D1,139.0
+sub_grade,sub_grade_F1,136.0
+sub_grade,sub_grade_G3,148.0
+sub_grade,sub_grade_G1,146.0
+sub_grade,sub_grade_F2,140.0
+sub_grade,sub_grade_F4,143.0
+sub_grade,sub_grade_F5,149.0
+sub_grade,sub_grade_G5,147.0
+sub_grade,sub_grade_G4,137.0
+sub_grade,sub_grade_F3,140.0
+sub_grade,sub_grade_G2,138.0
+int_rate,int_rate_int_rate 9.548|13.676,143.0
+int_rate,int_rate_int_rate 5.399|9.548,169.0
+int_rate,int_rate_int_rate 13.676|17.804,139.0
+int_rate,int_rate_int_rate 17.804|21.932,142.0
+int_rate,int_rate_int_rate 21.932|26.06,144.0
+out_prncp,out_prncp_out_prncp 6432.076|12864.152,154.0
+out_prncp,out_prncp_out_prncp -32.16|6432.076,148.0
+out_prncp,out_prncp_out_prncp 19296.228|25728.304,154.0
+out_prncp,out_prncp_out_prncp 12864.152|19296.228,155.0
+out_prncp,out_prncp_out_prncp 25728.304|32160.38,146.0
