@@ -6,9 +6,9 @@ app = Flask(__name__)
 model = RiskModel()
 
 
-@app.route("/", methods=["POST"])
+@app.route("/", methods=["POST", "OPTIONS"])
 def prediction():
     try:
         return {"prediction": model.predict(request.json)}
-    except (ValueError, TypeError) as err:
+    except (ValueError, TypeError):
         abort(400)

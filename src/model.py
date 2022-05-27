@@ -4,7 +4,7 @@ class RiskModel:
 
     def __init__(self, model_path="models/model_data.txt"):
         self._payload = {"grade": {}, "sub_grade": {},
-                      "int_rate": [], "out_prncp": []}
+                         "int_rate": [], "out_prncp": []}
 
         with open(model_path) as file:
             lines = file.readlines()
